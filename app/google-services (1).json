@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "682783840820",
+    "project_id": "smart-kisan-94619",
+    "storage_bucket": "smart-kisan-94619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:682783840820:android:84e45c4f2aef20f44d8861",
+        "android_client_info": {
+          "package_name": "com.team.optimizers"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLeeAudJObDqWb4kgy4pbN0Ky3pwuHcyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
